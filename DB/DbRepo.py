@@ -1,4 +1,4 @@
-from User import User
+from DB.User import User
 from werkzeug.security import generate_password_hash
 
 
